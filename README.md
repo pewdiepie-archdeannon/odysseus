@@ -212,6 +212,6 @@ MIT -- see [LICENSE](LICENSE) and [ACKNOWLEDGMENTS.md](ACKNOWLEDGMENTS.md).
              _____|____|____|_____\\\__
              \                       /
        ~^~^~~^~^~~^~^~~^~^~~^~^~~^~^~~^~^~~^~^~
-               ~^~  5okbcFu9YyZTKegFZGUCpMPBG7BoGPKrXB97TbD4pump!  ~^~
+               ~^~  !  ~^~
        ~^~^~~^~^~~^~^~~^~^~~^~^~~^~^~~^~^~~^~^~
 ```
